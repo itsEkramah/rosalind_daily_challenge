@@ -22,14 +22,48 @@ The goal is to:
 ## 📂 Repository Structure
 
 - Each script is named after the Rosalind problem ID (e.g., `dna.py`, `fib.py`, `gc.py`).  
-- Example inputs/outputs are included in comments for clarity.  
+
+---
+# 📊 Rosalind Progress Tracker
+
+I’m tracking my daily progress solving **Rosalind bioinformatics problems**.  
+- ✅ = Completed  
+- ❌ = Not Yet  
 
 ---
 
-## 📝 Progress Log
-| Day | Problem | Status | Key Concepts |
-|-----|----------|--------|--------------|
-| 1   | DNA      | ✅ Completed | String parsing, counting |
+## 🧬 Core Problems
+
+| ID   | Title                                | Status |
+|------|--------------------------------------|--------|
+| DNA  | Counting DNA Nucleotides             | ✅ = Completed   |
+| RNA  | Transcribing DNA into RNA            | ✅ = Completed   |
+| REVC | Complementing a Strand of DNA        | ❌ |
+| FIB  | Rabbits and Recurrence Relations     | ❌ |
+| GC   | Computing GC Content                 | ❌ |
+| HAMM | Counting Point Mutations             | ❌ |
+| IPRB | Mendel's First Law                   | ❌ |
+| PROT | Translating RNA into Protein         | ❌ |
+| SUBS | Finding a Motif in DNA               | ❌ |
+| FIBD | Mortal Fibonacci Rabbits             | ❌ |
+| PERM | Enumerating Gene Orders              | ❌ |
+| CONS | Consensus and Profile                | ❌ |
+| GRPH | Overlap Graphs                       | ❌ |
+| IEV  | Calculating Expected Offspring       | ❌ |
+| LCSM | Finding a Shared Motif               | ❌ |
+| LIA  | Independent Alleles                  | ❌ |
+| MPRT | Finding a Protein Motif              | ❌ |
+| MRNA | Inferring mRNA from Protein          | ❌ |
+| ORF  | Open Reading Frames                  | ❌ |
+| PRTM | Calculating Protein Mass             | ❌ |
+| REVP | Locating Restriction Sites           | ❌ |
+| SPLC | RNA Splicing                         | ❌ |
+
+---
+
+
+Rosalind Problem List
+https://rosalind.info/problems/list-view/
 
 ---
 
