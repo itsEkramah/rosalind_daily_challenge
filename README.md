@@ -38,5 +38,5 @@ Clone this repo and run any script with Python 3:
 
 ```bash
 git clone https://github.com/itsEkramah/rosalind_daily_challenge.git
-cd rosalind_daily_challenge/problems
+cd rosalind_daily_challenge/
 
