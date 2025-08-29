@@ -1,4 +1,3 @@
-# Rosaland_Problems_solutions
  
 # 🧬 Rosalind Daily Challenge
 
