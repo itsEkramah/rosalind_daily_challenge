@@ -38,8 +38,8 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 |------|----------------------------------------------|--------|
 | DNA  | Counting DNA Nucleotides                     | ✅ = Completed |
 | RNA  | Transcribing DNA into RNA                    | ✅ = Completed |
-| REVC | Complementing a Strand of DNA                | ❌ |
-| FIB  | Rabbits and Recurrence Relations             | ❌ |
+| REVC | Complementing a Strand of DNA                | ✅ = Completed |
+| FIB  | Rabbits and Recurrence Relations             | ✅ = Completed |
 | GC   | Computing GC Content                         | ❌ |
 | HAMM | Counting Point Mutations                     | ❌ |
 | IPRB | Mendel's First Law                           | ❌ |
