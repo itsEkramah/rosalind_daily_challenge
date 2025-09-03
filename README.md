@@ -41,7 +41,7 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | REVC | Complementing a Strand of DNA                | ✅ = Completed |
 | FIB  | Rabbits and Recurrence Relations             | ✅ = Completed |
 | GC   | Computing GC Content                         | ✅ = Completed |
-| HAMM | Counting Point Mutations                     | ❌ |
+| HAMM | Counting Point Mutations                     | ✅ = Completed  |
 | IPRB | Mendel's First Law                           | ❌ |
 | PROT | Translating RNA into Protein                 | ❌ |
 | SUBS | Finding a Motif in DNA                       | ❌ |
