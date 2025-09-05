@@ -42,7 +42,7 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | FIB  | Rabbits and Recurrence Relations             | ✅ = Completed |
 | GC   | Computing GC Content                         | ✅ = Completed |
 | HAMM | Counting Point Mutations                     | ✅ = Completed  |
-| IPRB | Mendel's First Law                           | ❌ |
+| IPRB | Mendel's First Law                           | ✅ = Completed  |
 | PROT | Translating RNA into Protein                 | ❌ |
 | SUBS | Finding a Motif in DNA                       | ❌ |
 | FIBD | Mortal Fibonacci Rabbits                     | ❌ |
