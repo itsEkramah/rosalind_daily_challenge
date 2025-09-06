@@ -43,7 +43,7 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | GC   | Computing GC Content                         | ✅ = Completed |
 | HAMM | Counting Point Mutations                     | ✅ = Completed  |
 | IPRB | Mendel's First Law                           | ✅ = Completed  |
-| PROT | Translating RNA into Protein                 | ❌ |
+| PROT | Translating RNA into Protein                 | ✅ = Completed |
 | SUBS | Finding a Motif in DNA                       | ❌ |
 | FIBD | Mortal Fibonacci Rabbits                     | ❌ |
 | PERM | Enumerating Gene Orders                      | ❌ |
