@@ -44,7 +44,7 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | HAMM | Counting Point Mutations                     | ✅ = Completed  |
 | IPRB | Mendel's First Law                           | ✅ = Completed  |
 | PROT | Translating RNA into Protein                 | ✅ = Completed |
-| SUBS | Finding a Motif in DNA                       | ❌ |
+| SUBS | Finding a Motif in DNA                       | ✅ = Completed  |
 | FIBD | Mortal Fibonacci Rabbits                     | ❌ |
 | PERM | Enumerating Gene Orders                      | ❌ |
 | CONS | Consensus and Profile                        | ❌ |
