@@ -47,7 +47,7 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | SUBS | Finding a Motif in DNA                       | ✅ = Completed  |
 | FIBD | Mortal Fibonacci Rabbits                     | ❌ |
 | PERM | Enumerating Gene Orders                      | ❌ |
-| CONS | Consensus and Profile                        | ❌ |
+| CONS | Consensus and Profile                        | ✅ = Completed |
 | GRPH | Overlap Graphs                               | ❌ |
 | IEV  | Calculating Expected Offspring               | ❌ |
 | LCSM | Finding a Shared Motif                       | ❌ |
