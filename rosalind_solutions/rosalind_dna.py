@@ -1,4 +1,3 @@
-# ^_^ coding:utf-8 ^_^
 
 """
 Counting DNA Nucleotides

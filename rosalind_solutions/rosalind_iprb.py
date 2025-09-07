@@ -1,4 +1,3 @@
-# ^_^ coding:utf-8 ^_^
 
 """
 Mendel's First Law

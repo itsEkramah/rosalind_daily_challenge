@@ -1,4 +1,3 @@
-# ^_^ coding:utf-8 ^_^
 
 """
 Transcribing DNA into RNA 
