@@ -45,9 +45,9 @@ I’m tracking my daily progress solving **Rosalind bioinformatics problems**.
 | IPRB | Mendel's First Law                           | ✅ = Completed  |
 | PROT | Translating RNA into Protein                 | ✅ = Completed |
 | SUBS | Finding a Motif in DNA                       | ✅ = Completed  |
-| FIBD | Mortal Fibonacci Rabbits                     | ❌ |
+| FIBD | Mortal Fibonacci Rabbits                     | ✅ = Completed  |
 | PERM | Enumerating Gene Orders                      | ❌ |
-| CONS | Consensus and Profile                        | ❌ |
+| CONS | Consensus and Profile                        | ✅ = Completed |
 | GRPH | Overlap Graphs                               | ❌ |
 | IEV  | Calculating Expected Offspring               | ❌ |
 | LCSM | Finding a Shared Motif                       | ❌ |
