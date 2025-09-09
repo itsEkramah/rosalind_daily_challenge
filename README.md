@@ -1,5 +1,4 @@
- 
-# 🧬 Rosalind Daily Challenge
+ # 🧬 Rosalind Daily Challenge
 
 This repository documents my **daily journey of solving problems from [Rosalind](http://rosalind.info/)** – a platform for learning bioinformatics through programming challenges.  
 
@@ -29,7 +28,7 @@ The goal is to:
 I’m tracking my daily progress solving **Rosalind bioinformatics problems**.  
 - ✅ = Completed  
 - ❌ = Not Yet  
-
+❌ = Not Yet 
 ---
 
 ## 🧬 Progress Table
