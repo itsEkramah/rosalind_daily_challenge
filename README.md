@@ -27,8 +27,7 @@ The goal is to:
 
 I’m tracking my daily progress solving **Rosalind bioinformatics problems**.  
 - ✅ = Completed  
-- ❌ = Not Yet  
-❌ = Not Yet 
+- ❌ = Not Yet 
 ---
 
 ## 🧬 Progress Table
