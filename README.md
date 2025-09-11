@@ -8,7 +8,7 @@ The goal is to:
 - Build consistency by solving **at least one problem every day**  
 - Create a public portfolio of **bioinformatics problem-solving**  
 
----
+--
 
 ## 📅 Challenge Rules
 1. Solve **1 Rosalind problem per day** (minimum).  
